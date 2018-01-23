@@ -1,4 +1,4 @@
-# poll
+# ssl-info
 
 ssl-info is used to gather interesting information about ssl endpoints and certs.  It is licensed by the [MIT](LICENSE) license.
 
